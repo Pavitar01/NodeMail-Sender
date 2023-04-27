@@ -22,8 +22,8 @@ app.post("/send", (req, res) => {
     secure: false,
     requireTLS: true,
     auth: {
-      user: "mickeynegi924@gmail.com",
-      pass: "jskysdfiqboppqbb",
+      user: "",
+      pass: "",
     },
   });
 
